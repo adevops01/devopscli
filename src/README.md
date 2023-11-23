@@ -11,3 +11,5 @@ This script is designed to be used with the following command line arguments:
 
 
 commit --amend example
+
+one more time
