@@ -1,6 +1,6 @@
 ###### Adding Readme file
 Explaing how to use this script.
-### How to use this script
+### How to use this python script
 This script is designed to be used with the following command line arguments:
 - `--input_file`: The input files should to be processed.
 - `--output_file`: The output file should  to be created.
