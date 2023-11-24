@@ -1,3 +1,5 @@
+[![Mark stale issues and pull requests](https://github.com/adevops01/devopscli/actions/workflows/stale.yml/badge.svg)](https://github.com/adevops01/devopscli/actions/workflows/stale.yml)
+
 ## devopscli
 
 This is a cli utility to help devops engineer.
