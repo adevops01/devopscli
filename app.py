@@ -7,4 +7,8 @@ def printFuntion():
     print("Changes after PR creation but before approval")
 
 
+def printStats(apiName):
+    print("The status of the api is", apiName)
+
+
 # another commit lets see
