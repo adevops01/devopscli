@@ -7,4 +7,7 @@ func main() {
 	fmt.Println(msg)
 
 	wrongNmae := "intentinally wrogn strign"
+	wrongNmaeString := "intentinally wrogn string"
+	wrongNmaeStrgin := "intentinally wrogn strgin"
+
 }
